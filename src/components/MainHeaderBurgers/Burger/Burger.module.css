@@ -1,0 +1,21 @@
+.container-burger{
+    background-color: orange;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.container-burger h2{
+    letter-spacing: 5px;
+}
+
+.container-burger h1{
+    font-style: italic;
+    color:white
+}
+
+@media (min-width: 768px) {
+    .container-burger {
+        padding: 25px;
+    }
+}

@@ -1,0 +1,26 @@
+.cart-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    border: 1px solid orange;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+    font-size: 25px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.cart-button:focus{
+    outline: none;
+}
+
+.cart-button span {
+    background-color: red;
+    border-radius: 50px;
+    font-style: italic;
+    color: white;
+    padding: 5px;
+    margin-left: 5px;
+}

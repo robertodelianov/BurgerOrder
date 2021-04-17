@@ -1,0 +1,23 @@
+.appbar-container {
+    width: 100%;
+    background-color: olive;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.appbar-container h1 {
+    color: white;
+    font-size: 20px;
+}
+
+@media (min-width: 768px) {
+    .appbar-container h1 {
+        font-size: 50px;
+    }
+}
+
+.appbar-container span {
+    font-style: italic;
+    color:palegoldenrod
+}
+

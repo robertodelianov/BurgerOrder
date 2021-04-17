@@ -1,0 +1,17 @@
+.container-burger__inCart {
+    padding: 25px;
+}
+
+.container-burger__inCart h2 {
+    color: gold;
+}
+
+.container-burger__inCart button {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.container-burger__inCart span {
+    font-size: 20px;
+    font-weight: bold;
+}

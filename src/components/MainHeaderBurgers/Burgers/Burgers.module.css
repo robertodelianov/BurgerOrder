@@ -1,0 +1,15 @@
+.container-burgers {
+  width: 90%;
+  background-color: olive;
+  padding: 25px;
+  margin-top: 200px;
+}
+
+@media (min-width: 768px) {
+  .container-burgers {
+    width: 40%;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    margin-top: 0;
+  }
+}
